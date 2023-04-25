@@ -150,7 +150,7 @@ You must allow traffic in your Azure network configuration to the service URLs a
 #### Cloud PC required URLs
 
 | Address:Port | Required for |
-| --- | --- | --- |
+| --- | --- |
 | 168.63.129.16:80 | GCC, GCCH |
 | 168.63.129.16:32526 | GCC, GCCH |
 | 168.63.129.16:53 | GCC, GCCH |
@@ -164,7 +164,7 @@ You must allow traffic in your Azure network configuration to the service URLs a
 #### Intune-dependent URLs
 
 | Address:Port | Required for |
-| --- | --- | --- |
+| --- | --- |
 | portal.manage.microsoft.us:443 | GCCH |
 |m.manage.microsoft.us:443 | GCCH |
 | mam.manage.microsoft.us:443 | GCCH |
@@ -179,7 +179,7 @@ You must allow traffic in your Azure network configuration to the service URLs a
 #### Azure Active Directory-dependent URLs
 
 | Address:Port | Required for |
-| --- | --- | --- |
+| --- | --- |
 | login.microsoftonline.us | GCCH |
 | enterpriseregistration.microsoftonline.us:443 | GCCH |
 | login.live.com:443 | GCCH, GCC |
@@ -189,7 +189,7 @@ You must allow traffic in your Azure network configuration to the service URLs a
 #### Azure Virtual Device-dependent URLs
 
 | Address:Port | Required for |
-| --- | --- | --- |
+| --- | --- |
 | rdweb.wvd.azure.us:443 | GCCH |
 | rdbroker.wvd.azure.us:443 | GCCH |
 | rdweb.wvd.microsoft.com:443 | GCC |
@@ -198,7 +198,7 @@ You must allow traffic in your Azure network configuration to the service URLs a
 #### Localization package
 
 | Address:Port | Required for |
-| --- | --- | --- |
+| --- | --- |
 |  download.microsoft.com:443 | GCCH, GCC |
 | software-download.microsoft.com:443 | GCCH, GCC |
 
